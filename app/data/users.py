@@ -1,0 +1,1 @@
+students = [{"id": 905000001, "first_name": "Alusine", "last_name": "Lebbie", "email": "lebbie@chimp.edu", "password": "123456"}, {"id": 905000002, "first_name": "Mary", "last_name": "Sannoh", "email": "msannoh@chimp.edu", "password": "123456"}]
